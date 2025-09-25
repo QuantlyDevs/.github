@@ -30,14 +30,6 @@ Readme: [README](https://github.com/QuantlyDevs/FoodFusionAI-README)
 
 *If we publish open source projects, you will find them here.*
 
-If you want to contribute to our product code base, email us at [TODO].
-
-## 📞 Get in Touch
-
-- **Website:** [todo](todo)
-- **Email:** [TODO]
-- **LinkedIn:** [todo](todo)
-
 ## 🌍 Community Guidelines
 
 We're committed to fostering an inclusive and welcoming community. Please read our **Code of Conduct** before participating.
